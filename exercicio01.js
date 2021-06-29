@@ -1,7 +1,7 @@
 /* EXERCÍCIO 01 - LET E CONST
 Fulano da Silva tem 30 anos, pesa 84 kg,
 tem 1.8 de altura e seu IMC é 24.81
-Luiz Gustavo da Silva Miranda nasceu em 1991
+Fulano da Silva nasceu em 1991
 */
 
 const nome = 'Fulano'
